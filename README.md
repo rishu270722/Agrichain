@@ -33,16 +33,9 @@ Our vision is to empower farmers with guaranteed market access and income stabil
 
 ## Screenshots
 
-<img width="1440" alt="Screenshot 2024-12-15 at 3 56 18 AM" src="https://github.com/user-attachments/assets/5251288c-e825-437b-bb12-6208c59f64b6" />
-
 
 <img width="1440" alt="Screenshot 2024-12-15 at 3 55 51 AM" src="https://github.com/user-attachments/assets/705642c2-a5d2-4857-b24e-e0dea1b81341" />
 
-<img width="1353" alt="Screenshot 2024-12-15 at 3 57 15 AM" src="https://github.com/user-attachments/assets/423fdc25-da98-4c59-a1ae-88c015f6f268" />
+<img width="1236" height="383" alt="Screenshot 2026-01-12 at 7 18 26 PM" src="https://github.com/user-attachments/assets/9475aa97-daac-4036-9122-3b47d6fb0917" />
 
 <img width="1440" alt="Screenshot 2024-12-15 at 3 57 46 AM" src="https://github.com/user-attachments/assets/32ad40b7-d537-486b-85bf-df4c4df2c762" />
-
-
-
-
-
